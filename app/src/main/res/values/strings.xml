@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperature_Converter</string>
+    <string name="celsius_to_fahrenheit_converter">Celsius to Fahrenheit Converter</string>
+    <string name="enter_a_value_to_convert">Enter a value to convert</string>
+    <string name="celsius_value">Celsius Value</string>
+    <string name="convert">convert</string>
+    <string name="degrees_fahrenheit">%1$.2f°f</string>
+    <string name="degrees_celsius">%1$.2c°c</string>
+    <string name="fahrenheit_to_celsius_converter">Fahrenheit to Celsius Converter</string>
+    <string name="fahrenheit_value">Fahrenheit Value</string>
+    <string name="textview">TextView</string>
+</resources>
